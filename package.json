@@ -21,7 +21,9 @@
   },
   "homepage": "https://github.com/anthony-bell/todoListApi#readme",
   "dependencies": {
-    "express": "^4.15.3"
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.6"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
