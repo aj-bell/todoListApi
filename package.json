@@ -1,0 +1,23 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "First RESTful Exposure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/anthony-bell/todoListApi.git"
+  },
+  "keywords": [
+    "RESTful",
+    "API"
+  ],
+  "author": "Anthony Bell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthony-bell/todoListApi/issues"
+  },
+  "homepage": "https://github.com/anthony-bell/todoListApi#readme"
+}
